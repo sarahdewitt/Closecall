@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="@color/white">
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:drawableLeft="@drawable/ic_arrow_back_black_24dp"
+        android:drawablePadding="2dp"
+        android:gravity="center"
+        android:paddingLeft="14dp"
+        android:singleLine="true"
+        style="@style/back_btn"
+        android:layout_gravity="left"
+        android:onClick="back_btn"/>
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Closecall</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">closecall</string>
+    <string name="tagline">One Call Away to Safety</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="access">Enable Access</string>
+    <string name="mic_access">Allow us to access your microphone</string>
+    <string name="location_access">Allow us to access your location</string>
+    <string name="mic_desc">Gives us permission to detect your key-word to activate the app and SOS mode.</string>
+    <string name="location_desc">Gives us permission to know your location to send your cordinates to your love ones.</string>
+    <string name="no_instructions">Enter your phone number</string>
+    <string name="email_instructions">Enter your email</string>
+    <string name="email_why">We need your email address to create your account and to communicate with you when needed.</string>
+    <string name="proceed_registration">Proceed</string>
+
+    <!--navigation bar-->
+    <string name="title_home">Home</string>
+    <string name="title_location">Location</string>
+    <string name="title_contact">Contacts</string>
+
+    <!--Home-->
+    <string name="call_help">Press this button to call for help</string>
+</resources>
